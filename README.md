@@ -7,10 +7,10 @@ I'm Lyn, I love programming!
 <p>
     <!-- <a href="https://dotnet.microsoft.com/">
         <img alt="C#" width="32em" height="32em" src="assets/csharp.svg">
-    </a>
-    <a href="https://www.oracle.com/java/technologies/">
+    </a> -->
+    <!-- <a href="https://www.oracle.com/java/technologies/">
         <img alt="Java" width="32em" height="32em" src="assets/java.svg">
-    </a>
+    </a> -->
     <a href="https://www.javascript.com/">
         <img alt="JavaScript" width="32em" height="32em" src="assets/javascript.svg">
     </a>
@@ -23,7 +23,7 @@ I'm Lyn, I love programming!
     <a href="https://vuejs.org/">
         <img alt="Vue" width="32em" height="32em" src="assets/vue.svg">
     </a>
-</p> -->
+</p>
 
 ### :coffee: Wanna chat?
 
