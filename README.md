@@ -34,6 +34,6 @@ I'm Lyn, I love programming!
 <hr> -->
 
 <p align="center">
-    <img alt="DeSynk's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=DeSynkDEV&theme=material-palenight&show_icons=true">
-    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeSynkDEV&hide=html&layout=compact&theme=material-palenight">
+    <img alt="Lyn's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=PixelPrincessDEV&theme=material-palenight&show_icons=true">
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixelPrincessDEV&hide=html&layout=compact&theme=material-palenight">
 </p>
