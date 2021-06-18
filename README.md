@@ -1,6 +1,6 @@
 # Hi there! :milky_way:
 
-I'm Lyn, I love programming!
+I'm Lyn, I love programming, animating, and gaming!
 
 ### :space_invader: Technologies
 
@@ -26,7 +26,7 @@ I'm Lyn, I love programming!
 </p>
 
 ### :coffee: Wanna chat?
-
+[My Discord Server](https://discord.io/princessdesynk)
 <!-- <p>
   
 </p>
