@@ -24,6 +24,8 @@ I'm Lyn, I love programming, animating, and gaming!
         <img alt="Vue" width="32em" height="32em" src="assets/vue.svg">
     </a>
 </p>
+### ☕ The Official Lynny Site
+[Cutie Lynny Official](https://princessdesynk.github.io/Cutie-Lynny/)
 
 ### :coffee: Wanna chat?
 [My Discord Server](https://discord.io/princessdesynk)
