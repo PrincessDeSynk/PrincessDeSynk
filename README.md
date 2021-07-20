@@ -25,6 +25,7 @@ I'm Lyn, I love programming, animating, and gaming!
     </a>
 </p>
 ### ☕ The Official Lynny Site
+
 [Cutie Lynny Official](https://princessdesynk.github.io/Cutie-Lynny/)
 
 ### :coffee: Wanna chat?
