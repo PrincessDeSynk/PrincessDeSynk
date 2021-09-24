@@ -1,6 +1,6 @@
 # Hi there! :milky_way:
 
-I'm Lyn, I love programming, animating, and gaming!
+#### I'm Lyn, I love programming, animating, and gaming!
 
 ### :space_invader: Technologies
 
