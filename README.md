@@ -29,7 +29,21 @@
 [Cutie Lynny Official](https://princessdesynk.github.io/Cutie-Lynny/)
 
 ### :coffee: Wanna chat?
-[My Discord Server](https://discord.io/princessdesynk)
+<p>
+    <a href="https://discord.com/users/807994135897571398/">
+        <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=PrincessDeSynk%231313"/>
+    </a>
+    <a href="https://www.youtube.com/c/PrincessDeSynk/">
+        <img alt="Youtube" src="https://img.shields.io/static/v1?style=flat&logo=youtube&logoColor=white&color=%23FF0000&label=&message=PrincessDeSynk"/>
+    </a>
+    <a href="https://www.twitch.tv/princessdesynktv/">
+        <img alt="Twitch" src="https://img.shields.io/static/v1?style=flat&logo=twitch&logoColor=white&color=%239146FF&label=&message=PrincessDeSynkTV"/>
+    </a>
+    <!-- <a href="https://www.linkedin.com/in/jaime-daniel-38273a1bb/">
+        <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Jaime%20Daniel"/> -->
+    </a>
+</p>
+
 <!-- <p>
   
 </p>
