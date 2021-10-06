@@ -1,6 +1,6 @@
 # Hi there! :milky_way:
 
-#### I'm Lyn, I love programming, animating, and gaming!
+#### I'm Lilith, I love programming, animating, and gaming!
 
 ### :space_invader: Technologies
 
@@ -24,9 +24,6 @@
         <img alt="Vue" width="32em" height="32em" src="assets/vue.svg">
     </a>
 </p>
-
-### :coffee: The Official Lynny Site
-[Cutie Lynny Official](https://princessdesynk.github.io/Cutie-Lynny/)
 
 ### :coffee: Wanna chat?
 <p>
