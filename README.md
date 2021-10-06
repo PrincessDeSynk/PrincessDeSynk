@@ -48,6 +48,6 @@
 <hr> -->
 
 <p align="center">
-    <img alt="Lyn's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=PrincessDeSynk&theme=material-palenight&show_icons=true">
+    <img alt="Lilith's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=PrincessDeSynk&theme=material-palenight&show_icons=true">
     <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrincessDeSynk&hide=html&layout=compact&theme=material-palenight">
 </p>
