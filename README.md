@@ -1,10 +1,11 @@
 # Lilith/PrincessDeSynk GitHub | Official Bio
-<br> </br>
-## Hi there! :milky_way:
+_____________________________________________
 
-#### I'm Lilith, I love programming, animating, and gaming!
+## Hello!
 
-### :space_invader: Technologies
+#### I'm Lilith, I love programming, animating, gaming, and more.
+
+### Technologies I use
 <p>
     <!-- <a href="https://dotnet.microsoft.com/">
         <img alt="C#" width="32em" height="32em" src="assets/csharp.svg">
