@@ -3,7 +3,7 @@
 #### I'm Lilith, I love programming, animating, and gaming!
 
 ### :space_invader: Technologies
-
+<title>Lilith/PrincessDeSynk GitHub Bio</title>
 <p>
     <!-- <a href="https://dotnet.microsoft.com/">
         <img alt="C#" width="32em" height="32em" src="assets/csharp.svg">
