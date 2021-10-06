@@ -1,5 +1,6 @@
 # Lilith/PrincessDeSynk GitHub | Official Bio
-# Hi there! :milky_way:
+<br> </br>
+## Hi there! :milky_way:
 
 #### I'm Lilith, I love programming, animating, and gaming!
 
