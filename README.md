@@ -38,7 +38,6 @@
     </a>
     <!-- <a href="https://www.linkedin.com/in/jaime-daniel-38273a1bb/">
         <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=flat&logo=linkedin&logoColor=white&color=%230A66C1&label=&message=Jaime%20Daniel"/> -->
-    </a>
 </p>
 
 <!-- <p>
