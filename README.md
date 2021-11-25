@@ -32,7 +32,7 @@ _____________________________________________
     <a href="https://discord.com/users/807994135897571398/">
         <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=white&color=%237289DA&label=&message=PrincessDeSynk%231313"/>
     </a>
-    <a href="https://www.youtube.com/c/PrincessDeSynk/">
+    <a href="https://www.youtube.com/PrincessDeSynk/">
         <img alt="Youtube" src="https://img.shields.io/static/v1?style=flat&logo=youtube&logoColor=white&color=%23FF0000&label=&message=PrincessDeSynk"/>
     </a>
     <a href="https://www.twitch.tv/princessdesynktv/">
