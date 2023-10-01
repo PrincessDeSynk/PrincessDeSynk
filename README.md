@@ -1,7 +1,7 @@
 # Lilith/PrincessDeSynk GitHub | Official Bio
-_____________________________________________
 
-## Hello!
+> [!NOTE]
+> Hello!
 
 #### I'm Lilith, I love programming, animating, gaming, and more.
 
