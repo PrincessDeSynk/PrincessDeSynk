@@ -1,11 +1,11 @@
 # Lilith/PrincessDeSynk GitHub | Official Bio
 
 > [!NOTE]
-> Hello!
+> Hello! I'm Lilith, I love programming, animating, gaming, and more.
 
-#### I'm Lilith, I love programming, animating, gaming, and more.
+> [!IMPORTANT]
+> Technologies I use are listed below.
 
-### Technologies I use
 <p>
     <!-- <a href="https://dotnet.microsoft.com/">
         <img alt="C#" width="32em" height="32em" src="assets/csharp.svg">
